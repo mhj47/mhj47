@@ -27,7 +27,7 @@ I build responsive, user-friendly web experiences and help businesses solve real
 ## 🚀 What I Bring
 ✔️ Clean, responsive frontend development  
 ✔️ Real-world experience with users & client needs  
-✔️ Strong communication (a major advantage in remote teams)  
+✔️ Strong communication  
 ✔️ Ability to troubleshoot, test & improve software  
 
 ---
