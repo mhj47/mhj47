@@ -81,6 +81,12 @@ I build responsive, user-friendly web experiences and help businesses solve real
 <a href="#">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhj47&theme=tokyonight"/>
 </a>
+<a href="#">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhj47&theme=tokyo-night&hide_border=true"/>
+</a>
+<a href="#">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mhj47&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</a>
 </div>
 
 ---
