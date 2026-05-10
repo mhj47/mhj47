@@ -70,9 +70,11 @@ I build responsive, user-friendly web experiences and help businesses solve real
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhj47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhj47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=mhj47&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhj47&theme=tokyonight"/>
 </p>
 
 ---
