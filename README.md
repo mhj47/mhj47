@@ -69,12 +69,20 @@ I build responsive, user-friendly web experiences and help businesses solve real
 ---
 
 ## 📊 GitHub Insights
-<p style="display: flex; align-items: center; gap: 20px; width: 800px; margin: 0;">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhj47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" style="max-width: 100%;width: 420px;"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=mhj47&theme=tokyonight&hide_border=true" style="max-width: 100%;width: 420px;"/>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhj47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</td>
+
+<td align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=mhj47&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhj47&theme=tokyonight" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhj47&theme=tokyonight"/>
 </p>
 
 ---
