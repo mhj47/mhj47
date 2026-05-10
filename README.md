@@ -70,20 +70,20 @@ I build responsive, user-friendly web experiences and help businesses solve real
 
 ## 📊 GitHub Insights
 <table align="center">
-<tr>
-<td align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhj47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-</td>
-
-<td align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=mhj47&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhj47&show_icons=true&theme=tokyonight&hide_border=true"/>
+    </td>
+    <td>
+      <img width="100%" src="https://streak-stats.demolab.com?user=mhj47&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhj47&theme=tokyonight"/>
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhj47&theme=tokyonight"/>
-</p>
 
 ---
 
