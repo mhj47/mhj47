@@ -69,20 +69,20 @@ I build responsive, user-friendly web experiences and help businesses solve real
 ---
 
 ## 📊 GitHub Insights
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td border="0">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhj47&show_icons=true&theme=tokyonight&hide_border=true"/>
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhj47&show_icons=true&theme=transparent&hide_border=true"/>
     </td>
   </tr>
   <tr>
     <td border="0">
-      <img width="100%" src="https://streak-stats.demolab.com?user=mhj47&theme=tokyonight&hide_border=true"/>
+      <img width="100%" src="https://streak-stats.demolab.com?user=mhj47&theme=transparent&hide_border=true"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" border="0">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhj47&theme=tokyonight"/>
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhj47&theme=transparent"/>
     </td>
   </tr>
 </table>
